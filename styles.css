@@ -5,10 +5,11 @@ body {
 }
 
 .background-image {
-  background-image: url('images/premises.jpg');
+  background-image: url('/premises.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
+
 }
 
 
@@ -155,7 +156,7 @@ body {
 
 p {
   font-size: large;
-  color: beige;
+  color:antiquewhite
 }
 
 
