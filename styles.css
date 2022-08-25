@@ -4,6 +4,7 @@ body {
   padding: 0;
 }
 
+
 .v-point {
   animation: changeBg 10s infinite alternate linear;
 
@@ -25,7 +26,6 @@ body {
       background: #ff9b85;
     }
 }
-
 
 .container {
   display: grid;
